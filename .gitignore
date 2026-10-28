@@ -19,6 +19,3 @@ wheels/
 __pycache__/
 *.py[cod]
 
-# Private resumes
-resumes/*
-!resumes/.gitkeep
